@@ -88,7 +88,7 @@
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-47" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;依存句法分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-42">
           <mxGeometry x="10" y="100" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;检索、优化、召回&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-42">
+        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;向量检索&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-42">
           <mxGeometry x="200" y="12.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;检索结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-57">
