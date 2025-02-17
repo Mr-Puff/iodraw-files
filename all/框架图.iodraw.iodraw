@@ -85,20 +85,11 @@
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;领域实体识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-42">
           <mxGeometry x="10" y="12.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j9ysMjzSfjyTwz0RfnyQ-42" source="j9ysMjzSfjyTwz0RfnyQ-47" target="j9ysMjzSfjyTwz0RfnyQ-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-47" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;依存句法分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-42">
           <mxGeometry x="10" y="100" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j9ysMjzSfjyTwz0RfnyQ-42" source="j9ysMjzSfjyTwz0RfnyQ-49" target="j9ysMjzSfjyTwz0RfnyQ-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;大模型槽位填充&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-42">
-          <mxGeometry x="260" y="100" width="160" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;检索、优化、召回&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-42">
-          <mxGeometry x="260" y="12.5" width="160" height="50" as="geometry" />
+          <mxGeometry x="200" y="12.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;检索结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-57">
           <mxGeometry x="530" y="260" width="40" height="210" as="geometry" />
@@ -108,6 +99,15 @@
             <mxPoint x="470" y="349.5" as="sourcePoint" />
             <mxPoint x="520" y="349.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;大模型槽位填充&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-57">
+          <mxGeometry x="200" y="360" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j9ysMjzSfjyTwz0RfnyQ-57" source="j9ysMjzSfjyTwz0RfnyQ-47" target="j9ysMjzSfjyTwz0RfnyQ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j9ysMjzSfjyTwz0RfnyQ-57" source="j9ysMjzSfjyTwz0RfnyQ-49" target="j9ysMjzSfjyTwz0RfnyQ-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
