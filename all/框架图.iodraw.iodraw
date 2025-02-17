@@ -89,7 +89,7 @@
           <mxGeometry x="10" y="100" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;向量检索&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-42">
-          <mxGeometry x="200" y="12.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="160" y="12.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-66" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;多路召回&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-42">
           <mxGeometry x="380" y="12.5" width="70" height="50" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;大模型槽位填充&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-57">
-          <mxGeometry x="160" y="360" width="160" height="50" as="geometry" />
+          <mxGeometry x="160" y="360" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j9ysMjzSfjyTwz0RfnyQ-57" source="j9ysMjzSfjyTwz0RfnyQ-47" target="j9ysMjzSfjyTwz0RfnyQ-49">
           <mxGeometry relative="1" as="geometry" />
