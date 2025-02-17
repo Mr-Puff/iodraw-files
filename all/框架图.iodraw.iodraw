@@ -91,7 +91,7 @@
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="j9ysMjzSfjyTwz0RfnyQ-24" source="j9ysMjzSfjyTwz0RfnyQ-55" target="j9ysMjzSfjyTwz0RfnyQ-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-55" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;答案生成&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-24">
+        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-55" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;大模型生成答案&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="j9ysMjzSfjyTwz0RfnyQ-24">
           <mxGeometry x="325" y="90.91" width="85" height="50.91" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="j9ysMjzSfjyTwz0RfnyQ-24" target="j9ysMjzSfjyTwz0RfnyQ-50">
