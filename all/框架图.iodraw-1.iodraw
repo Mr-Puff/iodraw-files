@@ -58,12 +58,6 @@
             <mxPoint x="270" y="38.60238095238095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;大模型槽位填充&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="j9ysMjzSfjyTwz0RfnyQ-42" vertex="1">
-          <mxGeometry x="160" y="73.63170212765954" width="140" height="45.744680851063826" as="geometry" />
-        </mxCell>
-        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="j9ysMjzSfjyTwz0RfnyQ-42" source="j9ysMjzSfjyTwz0RfnyQ-47" target="j9ysMjzSfjyTwz0RfnyQ-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-24" value="" style="group" parent="j9ysMjzSfjyTwz0RfnyQ-57" vertex="1" connectable="0">
           <mxGeometry width="460" height="188" as="geometry" />
         </mxCell>
@@ -131,12 +125,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;索引优化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="j9ysMjzSfjyTwz0RfnyQ-57" vertex="1">
-          <mxGeometry x="325" y="275.27464285714285" width="80" height="40.5325" as="geometry" />
+          <mxGeometry x="325" y="289.03464285714284" width="80" height="40.5325" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-66" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;多路召回&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="j9ysMjzSfjyTwz0RfnyQ-57" vertex="1">
           <mxGeometry x="325" y="208.68553571428572" width="80" height="40.5325" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="j9ysMjzSfjyTwz0RfnyQ-57" source="j9ysMjzSfjyTwz0RfnyQ-50" target="j9ysMjzSfjyTwz0RfnyQ-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;大模型槽位填充&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="j9ysMjzSfjyTwz0RfnyQ-57" vertex="1">
+          <mxGeometry x="160" y="286.43170212765955" width="140" height="45.744680851063826" as="geometry" />
+        </mxCell>
+        <mxCell id="j9ysMjzSfjyTwz0RfnyQ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="j9ysMjzSfjyTwz0RfnyQ-57" source="j9ysMjzSfjyTwz0RfnyQ-47" target="j9ysMjzSfjyTwz0RfnyQ-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
