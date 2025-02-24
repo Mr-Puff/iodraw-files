@@ -91,6 +91,9 @@
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-75" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;答案优化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="579.5" y="210.3931914893617" width="85" height="46.57723404255318" as="geometry" />
         </mxCell>
+        <mxCell id="OlLFcOZ6SBbwe2jSwxoO-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;多路召回&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="417" y="210.39297872340424" width="120" height="41.58191489361702" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
