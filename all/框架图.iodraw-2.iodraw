@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;向量检索&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="417" y="283.17297872340424" width="120" height="41.58191489361702" as="geometry" />
+          <mxGeometry x="410" y="283.17297872340424" width="120" height="41.58191489361702" as="geometry" />
         </mxCell>
         <mxCell id="OlLFcOZ6SBbwe2jSwxoO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9ysMjzSfjyTwz0RfnyQ-55" target="j9ysMjzSfjyTwz0RfnyQ-75">
           <mxGeometry relative="1" as="geometry" />
@@ -102,7 +102,7 @@
         </mxCell>
         <mxCell id="OlLFcOZ6SBbwe2jSwxoO-22" value="RAG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OlLFcOZ6SBbwe2jSwxoO-3">
           <mxGeometry x="0.4894" y="-2" relative="1" as="geometry">
-            <mxPoint x="-8" y="37" as="offset" />
+            <mxPoint x="-10" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OlLFcOZ6SBbwe2jSwxoO-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;多路召回&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" vertex="1" parent="1">
