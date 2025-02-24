@@ -157,7 +157,13 @@
           <mxGeometry x="560" y="401.83" width="160" height="218.17" as="geometry" />
         </mxCell>
         <mxCell id="OlLFcOZ6SBbwe2jSwxoO-33" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;solr检索&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="580" width="120" height="50" as="geometry" />
+          <mxGeometry x="597" y="580" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OlLFcOZ6SBbwe2jSwxoO-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="170" as="sourcePoint" />
+            <mxPoint x="540" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
