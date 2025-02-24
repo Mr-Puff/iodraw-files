@@ -100,6 +100,11 @@
         <mxCell id="OlLFcOZ6SBbwe2jSwxoO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OlLFcOZ6SBbwe2jSwxoO-1" target="j9ysMjzSfjyTwz0RfnyQ-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OlLFcOZ6SBbwe2jSwxoO-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OlLFcOZ6SBbwe2jSwxoO-3">
+          <mxGeometry x="0.4894" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OlLFcOZ6SBbwe2jSwxoO-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;多路召回&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="417" y="210.39297872340424" width="120" height="41.58191489361702" as="geometry" />
         </mxCell>
@@ -125,16 +130,6 @@
         </mxCell>
         <mxCell id="OlLFcOZ6SBbwe2jSwxoO-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;查询扩展改写&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="417" y="487.5247619047618" width="120" height="38.60238095238095" as="geometry" />
-        </mxCell>
-        <mxCell id="OlLFcOZ6SBbwe2jSwxoO-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.569;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="131.48000000000002" as="sourcePoint" />
-            <mxPoint x="637.9699999999998" y="40.00130382978716" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="464" y="131.48000000000002" />
-              <mxPoint x="414" y="81.48000000000002" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
