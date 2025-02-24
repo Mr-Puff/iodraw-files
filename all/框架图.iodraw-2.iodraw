@@ -85,8 +85,11 @@
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;向量检索&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="417" y="283.17297872340424" width="120" height="41.58191489361702" as="geometry" />
         </mxCell>
+        <mxCell id="OlLFcOZ6SBbwe2jSwxoO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9ysMjzSfjyTwz0RfnyQ-55" target="j9ysMjzSfjyTwz0RfnyQ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-55" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;大模型生成答案&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="210.00297872340423" width="130" height="46.57723404255318" as="geometry" />
+          <mxGeometry x="570" y="207.8929787234042" width="130" height="46.57723404255318" as="geometry" />
         </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-75" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;答案优化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="278.17" width="130" height="46.58" as="geometry" />
