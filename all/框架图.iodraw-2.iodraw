@@ -49,6 +49,9 @@
             <mxPoint x="777" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OlLFcOZ6SBbwe2jSwxoO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9ysMjzSfjyTwz0RfnyQ-49" target="OlLFcOZ6SBbwe2jSwxoO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j9ysMjzSfjyTwz0RfnyQ-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;大模型槽位填充&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="412.14" width="140" height="43.57" as="geometry" />
         </mxCell>
@@ -100,7 +103,7 @@
         <mxCell id="OlLFcOZ6SBbwe2jSwxoO-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;多路召回&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="417" y="210.39297872340424" width="120" height="41.58191489361702" as="geometry" />
         </mxCell>
-        <mxCell id="OlLFcOZ6SBbwe2jSwxoO-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;solr字段映射&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" vertex="1" parent="1">
+        <mxCell id="OlLFcOZ6SBbwe2jSwxoO-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;高级检索&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="565" y="482.55" width="140" height="43.57" as="geometry" />
         </mxCell>
         <mxCell id="OlLFcOZ6SBbwe2jSwxoO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OlLFcOZ6SBbwe2jSwxoO-11" target="j9ysMjzSfjyTwz0RfnyQ-45">
