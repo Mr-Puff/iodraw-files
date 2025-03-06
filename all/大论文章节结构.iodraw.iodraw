@@ -10,10 +10,10 @@
         <mxCell id="aE2XI6jS3r-uyH9_ka_9-1" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;第1章&amp;nbsp; &amp;nbsp; 绪论&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="130" y="110" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aE2XI6jS3r-uyH9_ka_9-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="aE2XI6jS3r-uyH9_ka_9-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.649;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aE2XI6jS3r-uyH9_ka_9-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="160" as="sourcePoint" />
-            <mxPoint x="400" y="110" as="targetPoint" />
+            <mxPoint x="340" y="160" as="sourcePoint" />
+            <mxPoint x="390" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
